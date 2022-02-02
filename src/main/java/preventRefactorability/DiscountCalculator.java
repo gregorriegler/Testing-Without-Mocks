@@ -1,3 +1,5 @@
+package preventRefactorability;
+
 import java.util.List;
 
 public class DiscountCalculator {
