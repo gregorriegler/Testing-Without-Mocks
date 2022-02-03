@@ -1,2 +1,0 @@
-TODO: Some class that depends on another "Repository" class, that has an arbitrary delay
-Example of Tests with mock, without mock
