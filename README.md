@@ -24,6 +24,10 @@ Every 10th book you create should be marked as an anniversary book.
 Step 4:
 Every 100th book, the anniversary is not just any anniversary book, but a special golden anniversary.
 
+Step 5: 
+upgrade to Db2.0. Db2.0 renamed a method todo: think about a behaviour that changed too.
+- is about mocking non owned types.
+
 Covers: 
 - Create proper Repository Abstraction
 - Logic Sandwich
