@@ -4,6 +4,14 @@ http://jmock.org/oopsla2004.pdf
 https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a
 http://www.mockobjects.com/2007/04/test-smell-everything-is-mocked.html
 https://blog.thecodewhisperer.com/permalink/when-is-it-safe-to-introduce-test-doubles
+https://www.youtube.com/watch?v=bvRRbWbQwDU&list=PLlmVY7qtgT_lkbrk9iZNizp978mVzpBKl&index=2
+
+http://www.jamesshore.com/v2/blog/2018/testing-without-mocks
+https://www.jamesshore.com/v2/projects/lunch-and-learn/testing-without-mocks#:~:text=This%20week%2C%20it's%20testing%20without,they're%20being%20called%20correctly.
+
+https://www.youtube.com/watch?v=EZ05e7EMOLM
+
+---
 
 Mock Roles
 
