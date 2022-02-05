@@ -1,4 +1,4 @@
-package preventRefactorability;
+package harm_refactorability;
 
 import org.junit.jupiter.api.DisplayNameGeneration;
 import org.junit.jupiter.api.DisplayNameGenerator;

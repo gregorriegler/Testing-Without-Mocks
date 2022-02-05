@@ -1,4 +1,4 @@
-package tooManyMocks;
+package smells.too_many_mocks;
 
 public class SUT {
 

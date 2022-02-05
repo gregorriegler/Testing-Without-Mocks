@@ -1,4 +1,4 @@
-package helpAvoidSlowSubsystems;
+package help_avoid_slow_subsystems;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package preventRefactorability;
+package harm_refactorability;
 
 import java.util.List;
 
