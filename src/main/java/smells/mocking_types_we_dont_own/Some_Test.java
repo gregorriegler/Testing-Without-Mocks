@@ -20,8 +20,6 @@ public class Some_Test {
     @Mock
     HttpServletResponse response;
 
-
-
     @Test
     void why() {
         // ...
