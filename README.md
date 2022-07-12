@@ -17,6 +17,8 @@ Mock Roles
 
 Needed Driven Development
 
+How big is your SUT/Unit?
+
 ## Only Mock Types You Own
 Mock Objects is a design technique so programmers should only
 write mocks for types that they can change. Otherwise they cannot
