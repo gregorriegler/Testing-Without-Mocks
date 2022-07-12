@@ -40,7 +40,7 @@ But this presupposes that you have good design knowledge, and that you know what
 I'd argue that most of the time we learn what it is we're building while building it.
 So relations change, responsibilities change, roles change.
 
-## What to Mock, or: How big should a unit be?
+## What to mock, or: How big should a unit be?
 
 ## Mocking Antipatterns
 Mocking in it self is already a code smell. A codesmell indicates that something might be wrong with the code, but is not necessary the case.
