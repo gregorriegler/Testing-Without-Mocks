@@ -33,7 +33,10 @@ overshadowed by its use for testing interactions with third-party
 libraries.
 
 
-##Mock Objects should only be used at the boundaries of the system
+## Mocks lock in relations
+Be wary of the relations you lock in. Push them towards the boundary.
+Maximize the area between IO that refutes mocks.
+ Objects should only be used at the boundaries of the system
 We believe the opposite, that Mock Objects are most useful when
 used to drive the design of the code under test. This implies that
 they are most useful within the system where the interfaces can be
