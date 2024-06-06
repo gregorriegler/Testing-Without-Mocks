@@ -42,6 +42,9 @@ So relations change, responsibilities change, roles change.
 
 ## What to mock, or: How big should a unit be?
 
+## Don't Mock Values
+Properties, Settings, Value Objects are things you don't want to mock. It's easier to use the real one, and it gives us more confidence as it also tests those values. On top of that it allows for safe refactoring on the Values interface.
+
 ## Mocking Antipatterns
 Mocking in it self is already a code smell. A codesmell indicates that something might be wrong with the code, but is not necessary the case.
 https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a
